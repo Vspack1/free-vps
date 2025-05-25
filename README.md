@@ -135,4 +135,4 @@ Nếu bạn gặp lỗi không xử lý được, hãy mở issue tại repo ho�
 
 ---
 
-Bạn muốn mình lưu hướng dẫn này thành file `README.md` sẵn trong thư mục hiện tại không?
+
